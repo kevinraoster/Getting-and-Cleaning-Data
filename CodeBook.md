@@ -1,3 +1,7 @@
+Steps to create tidy Data
+====================
+Refer to the ReadMe file for steps to create tidy data
+
 Code Book:
 =========
 
